@@ -1,0 +1,45 @@
+Algorithm 1: Change Slow
+1	5	10	25	50	
+4	0	2	0	0	
+6
+
+Algorithm 2: Change Greedy
+1	5	10	25	50	
+4	0	2	0	0	
+6
+
+Algorithm 3: Change DP
+1	5	10	25	50	
+4	0	2	0	0	
+6
+
+Algorithm 1: Change Slow
+1	10	21	50	
+0	0	3	0	
+3
+
+Algorithm 2: Change Greedy
+1	10	21	50	
+3	1	0	1	
+5
+
+Algorithm 3: Change DP
+1	10	21	50	
+0	0	3	0	
+3
+
+Algorithm 1: Change Slow
+1	2	4	8	16	
+0	0	0	1	7	
+8
+
+Algorithm 2: Change Greedy
+1	2	4	8	16	
+0	0	0	1	7	
+8
+
+Algorithm 3: Change DP
+1	2	4	8	16	
+0	0	0	1	7	
+8
+
